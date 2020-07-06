@@ -36,6 +36,7 @@ RDEPEND="
 	dev-libs/libxml2:2
 	dev-libs/protobuf:=
 	dev-libs/pugixml
+	dev-qt/qtsvg
 	media-libs/freetype
 	media-libs/glew:0
 	media-libs/libpng:0
